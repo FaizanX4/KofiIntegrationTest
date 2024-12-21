@@ -1,0 +1,13 @@
+{
+  "name": "ko-fi-netlify-integration",
+  "version": "1.0.0",
+  "description": "A Netlify function to verify Ko-fi subscriptions.",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build step required'",
+    "start": "netlify dev"
+  },
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
